@@ -1,0 +1,13 @@
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\bin\Debug\netcoreapp3.1\ProjectSchool_GD.exe
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\bin\Debug\netcoreapp3.1\ProjectSchool_GD.deps.json
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\bin\Debug\netcoreapp3.1\ProjectSchool_GD.runtimeconfig.json
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\bin\Debug\netcoreapp3.1\ProjectSchool_GD.runtimeconfig.dev.json
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\bin\Debug\netcoreapp3.1\ProjectSchool_GD.dll
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\bin\Debug\netcoreapp3.1\ProjectSchool_GD.pdb
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\obj\Debug\netcoreapp3.1\ProjectSchool_GD.csprojAssemblyReference.cache
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\obj\Debug\netcoreapp3.1\ProjectSchool_GD.AssemblyInfoInputs.cache
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\obj\Debug\netcoreapp3.1\ProjectSchool_GD.AssemblyInfo.cs
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\obj\Debug\netcoreapp3.1\ProjectSchool_GD.csproj.CoreCompileInputs.cache
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\obj\Debug\netcoreapp3.1\ProjectSchool_GD.dll
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\obj\Debug\netcoreapp3.1\ProjectSchool_GD.pdb
+C:\Users\Gocha\source\repos\ProjectSchool_GD\ProjectSchool_GD\obj\Debug\netcoreapp3.1\ProjectSchool_GD.genruntimeconfig.cache
